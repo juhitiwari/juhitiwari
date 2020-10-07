@@ -1,5 +1,5 @@
 
-[![Header](https://github.com/juhitiwari/juhitiwari/blob/main/Juhi%20Tiwari.gif "Header")]
+![Header](https://github.com/juhitiwari/juhitiwari/blob/main/Juhi%20Tiwari.gif "Header")
 
 
 ### Hi there 👋
